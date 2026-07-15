@@ -15,6 +15,12 @@ The application also generates a downloadable PDF report for future reference.
 
 ---
 
+## Live Demo 
+
+   https://ai-resume-analyzer-7jjuc4hkrvaod9bz3799rh.streamlit.app/
+
+---   
+
 ## ✨ Features
 
 - 📄 Upload Resume (PDF)
